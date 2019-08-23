@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy-45-mma8451-modules-digital-triaxial-accelerometer-mma8451-gy-45",
+  "title": "gy-45-mma8451-modules-digital-triaxial-accelerometer-mma8451-gy-45",
+  "keywords": "gy-45-mma8451-modules-digital-triaxial-accelerometer-mma8451-gy-45, esp32, esp8266, arduino",
+  "description": "gy-45-mma8451-modules-digital-triaxial-accelerometer-mma8451-gy-45 plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-45-mma8451-modules-digital-triaxial-accelerometer-mma8451-gy-45/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-45-mma8451-modules-digital-triaxial-accelerometer-mma8451-gy-45/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
